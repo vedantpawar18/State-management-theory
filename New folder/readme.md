@@ -1,4 +1,5 @@
 
+![20220628_192834](https://user-images.githubusercontent.com/101568818/176204698-508dc784-d3a4-4ee6-85e3-3e2a37a34640.jpg)
 
 components of the React tic tac toe are:
 1.Square
